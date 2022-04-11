@@ -58,7 +58,7 @@ Detailed outlines/drawings. [human-data-collection](https://perpetual.education/
 
 We think you should be writing about your process and learning experience. We can't make you do it, but we know that if you do - you'll learn more, make better work, understand the process more - and make a lot more money. You can always go back and edit your posts later.
 
-- [ ] Happening [link to proof](https://peprojects.dev)
+- [x] Happening [link to proof](https://joshdev.substack.com/publish?utm_source=user-menu)
 
 
 ## ⬤ HTML and CSS
@@ -69,7 +69,7 @@ We learn a bunch of stuff later in the course about HTML so we'll note that furt
 
 This might seem _basic_ but we see students (and even senior devs) just guessing and trying `../` or `./` until it works and moving on. This is not reasonable. If the web is a complex system of linked resources then you absolutely have to have a solid handle on how to link things together, how file paths work, and how to write them. This will become more complicated later. This is just the basic version.
 
-- [ ] Done [link to proof](https://peprojects.dev) (one of the early challenges) (maybe we should make another slightly more edge-case filled challenge) (but also most any semi-complex site should prove you've got this)
+- [x] Done [link to proof](https://peprojects.dev/alpha-3/josh/everything-else/challenge-1/) (one of the early challenges) (maybe we should make another slightly more edge-case filled challenge) (but also most any semi-complex site should prove you've got this)
 
 ### How to write the HTML and CSS for a really beautiful article
 
@@ -98,7 +98,7 @@ Being able to pair down and really understand basic legibility and content shows
 
 We also suggest you get your [**/goals** and **/resume** pages](https://perpetual.education/exercises/goals-and-resume-pages/) going early.
 
-- [ ] Done [link to proof](https://peprojects.dev)
+- [x] Done [link to proof](https://peprojects.dev/alpha-3/josh/)
 
 This should be changing many many times throughout the course. But if you ever get lost you can always come back to this state.
 
