@@ -365,7 +365,7 @@ MAMP, partials/includes, control-flow, arrays/objects, loops, functions,
 
 This is the monster adoption week. So, there's a style-tile - and an opportunity to use all of the PHP stuff to create a dynamic page. There's a lot of opportunity to make that fun - and detailed... 
 
-- [ ] Done [link to proof](https://peprojects.dev)
+- [ X] Done [link to proof](https://peprojects.dev)
 
 Or, you could also - make another site like that - or another theme. What are YOU interested in? This _should_ be an exciting milestone.
 
@@ -648,5 +648,3 @@ So, based on your goals: we can decide what _you_ want to do next - and how best
 future electives... etc etc... soooo tired... this took like... sooo long.... but it's a good start
 
 =======
-
-Joshua test fork
